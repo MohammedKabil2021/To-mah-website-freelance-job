@@ -1,0 +1,537 @@
+{
+	"navbar": {
+		"brand": "To'mah",
+		"pages":"Pages",
+		"our_websites":"Our Websites",
+		"home": "Home",
+		"about": "About",
+		"menu": "Menu",
+		"partners": "Partners",
+		"contact": "Contact",
+		"language_toggle": {
+			"arabic": "Arabic",
+			"english": "English"
+		},
+		"cart_with_count": "CART({{count}})",
+		"bookingTable":"Book A Table"
+	},
+	"contact_form": {
+		"title": "Contact Us",
+		"description": "We'd love to hear from you. Fill out the form below and we'll get back to you as soon as possible.",
+		"name_label": "Name",
+		"name_placeholder": "Your name",
+		"email_label": "Email",
+		"email_placeholder": "Your email",
+		"phone_label": "Phone",
+		"phone_placeholder": "Your phone number",
+		"message_label": "Message",
+		"message_placeholder": "Your message",
+		"send_button": "Send Message",
+		"sending_button": "Sending...",
+		"success_message": "Your message has been sent successfully!",
+		"error_message": "There was an error sending your message. Please try again later."
+	},
+	"footer": {
+		"address": "Medina, Saudi Arabia",
+		"phone": "+966 58 325 0000",
+		"email": "info@tomah.sa",
+		"hours": "Open 7 Days",
+		"quick_links":" Quick Links",
+		"follow_us":"Follow Us",
+		"rights": "To'mah. All rights reserved.",
+		"services_title": "Services",
+		"services": {
+			"branding": "Branding",
+			"design": "Design",
+			"marketing": "Marketing",
+			"advertisement": "Advertisement"
+		},
+		"company_title": "Company",
+		"company": {
+			"tripadvisor": "TripAdvisor",
+			"youtube": "YouTube",
+			"google_maps": "Google Maps",
+			"linktree": "Official Linktree"
+		},
+		"legal_title": "Legal",
+		"legal": {
+			"terms": "Terms of use",
+			"privacy": "Privacy policy",
+			"cookie": "Cookie policy"
+		},
+		"aside": {
+			"description": "To'mah Restaurant\nAuthentic Hejazi Cuisine"
+		}
+	},
+	"hero_section": {
+		"title": "Our Menu",
+		"search_placeholder": "Search in our Menu..."
+	},
+	"menu_card": {
+		  "showing": "Showing {{start}}-{{end}} of {{total}} results",
+		  "sort": {
+      "default": "Default sorting",
+      "price_asc": "Price: Low to High",
+      "price_desc": "Price: High to Low",
+      "rating_asc": "Rating: Low to High",
+      "rating_desc": "Rating: High to Low"
+    },
+    "previous": "Previous",
+    "next": "Next",
+    "add_to_cart": "Add to Cart",
+    "view_details": "View Details",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "currency": "SR",
+    "no_products": "No products found"
+	},
+	"popular_meals":{
+		    "title": "Popular Meals"
+
+	},
+	"sidebar": {
+	    "all_categories": "All",
+		"min_price":"From",
+		"max_price":"To",
+		"reset_filters": "Reset All Filters",
+		"categories": "Categories",
+		"price_filter": "Filter by Price",
+		"price_range": "Range:",
+		"apply_filter": "Apply Filter",
+		"popular_items": "Popular Items",
+		"no_popular_products": "No popular products available",
+		"currency": "SR"
+	},
+	"about": {
+		"visitors": {
+			"title": "Our Valued Visitors",
+			"description": "We take pride in serving a diverse range of guests, from local families to international travelers, all seeking the authentic flavors of Hejazi cuisine."
+		},
+		"teama": {
+			"title": "To'mah Restaurant",
+			"description": "A culinary gem in the heart of Medina, To'mah offers a unique dining experience that combines the rich heritage of Hejazi cuisine with modern hospitality. Our restaurant is a place where tradition meets innovation, creating unforgettable meals for every guest.",
+			"image_alt": "To'mah Restaurant Interior"
+		},
+		"story": {
+			"title": "Our Story",
+			"description": "flavors of traditional Hejazi cuisine in a modern and inviting setting. What began as a dream to revive authentic Saudi dishes with a contemporary twist, quickly grew into a beloved destination for those seeking warmth, heritage, and exceptional taste. At To’mah, every dish tells a story — a story of home, culture, and unforgettable flavor.",
+			"signature": "طُعمة",
+			"image_alt_left": "Dish Left",
+			"image_alt_right": "Dish Right"
+		},
+		"video": {
+			"cover_alt": "Video Cover",
+			"play_button": "Play Video"
+		},
+		"values": {
+			"title": "Our Values",
+			"hospitality": "Hospitality & Warmth",
+			"authenticity": "Authenticity",
+			"community": "Community Support",
+			"culture": "Cultural Preservation"
+		},
+		"ambiance": {
+			"title": "Our Ambiance",
+			"description": "Inspired by the historic homes of Medina, our decor features over 100-year-old doors, traditional fabrics, volcanic stones, and local plants that create an atmosphere of heritage and nostalgia.",
+			"image_alt": "Restaurant Decor"
+		},
+		"special_menu": {
+			"logo_alt": "To'mah Logo",
+			"interior_alt": "Restaurant Interior"
+		},
+		"testimonials": {
+			"title": "Reviews",
+			"0": {
+				"text": "Probably the most authentic Saudi dining experience I've ever had. Everything was perfect, and the service was outstanding. A must-visit.",
+				"name": "TripAdvisor Review"
+			},
+			"1": {
+				"text": "The only restaurant all locals love. It’s always packed, and for a reason. The food is excellent and truly worth the hype.",
+				"name": "TikTok user review"
+			},
+			"2": {
+				"text": "Exploring a wonderful dining experience at To’mah — a beautiful blend of heritage, hospitality, and flavor.",
+				"name": "Foodie TikTok video"
+			},
+			"3": {
+				"text": "A special experience in Medina.",
+				"name": "Yousef Al-Jarrah"
+			},
+			"4": {
+				"text": "Enjoy a welcoming atmosphere that tells the stories of the Tomah family, who take pride in offering authentic flavors that reflect a deep history and a rich cultural legacy.",
+				"name": "HiHome Experience"
+			},
+			"5": {
+				"text": "Experience the rich flavors of Al Madinah at To'mah Restaurant, where every dish reflects traditional recipes and authentic Madani heritage.",
+				"name": "Visit Saudi Official Website"
+			}
+		},
+		"gallery": {
+			"image_alt": "Gallery Image"
+		},
+		"cta": {
+			"title": "Why Visit To'mah?",
+			"description": "Experience more than just food — experience tradition, warmth, and a piece of Medina's soul.",
+			"button": "Explore Menu"
+		}
+	},
+	"cart": {
+		"title": "Your Cart",
+		"empty": "Your cart is empty",
+		"remove": "Remove",
+		"checkout": "Proceed to Checkout",
+		"summary": "Order Summary",
+		"total": "Total:",
+		"currency": "SR",
+		"delivery_title": "Delivery Information",
+		"address_label": "Delivery Address",
+		"phone_label": "Phone Number",
+		"place_order": "Place Order",
+		"order_success": "Order placed successfully! (Demo only)"
+	},
+	"contact": {
+		"title": "Contact Us",
+		"form_title": "Send Us a Message",
+		"form_name": "Your Name",
+		"form_email": "Your Email",
+		"form_phone": "Your Phone Number",
+		"form_message": "Your Message",
+		"form_button": "Send Message",
+		"form_success": "Thank you! Your message has been sent.",
+		"location_title": "Location",
+		"location_image_alt": "Location Image",
+		"address_line1": "To'mah, DMAJ8018",
+		"address_line2": "5153 King Abdullah Branch Rd, Mahzur District, 8018, Medina 42319",
+		"address_line3": "Medina 42210, Saudi Arabia",
+		"phone": "+966 58 325 0000",
+		"hours_title": "Opening Hours",
+		"hours": {
+			"monday": "Monday",
+			"monday_time": "6:00 AM – 12:00 AM",
+			"tuesday": "Tuesday",
+			"tuesday_time": "6:00 AM – 12:00 AM",
+			"wednesday": "Wednesday",
+			"wednesday_time": "6:00 AM – 2:00 AM",
+			"thursday": "Thursday",
+			"thursday_time": "6:00 AM – 2:00 AM",
+			"friday": "Friday",
+			"friday_time": "6:00 AM – 2:00 AM",
+			"saturday": "Saturday",
+			"saturday_time": "6:00 AM – 2:00 AM",
+			"sunday": "Sunday",
+			"sunday_time": "6:00 AM – 12:00 AM"
+		},
+		"restaurant_image_alt": "Restaurant Image"
+	},
+	
+  "home": {
+	"menu":{"title":"Introduced Our Menu"},
+	"chefs": {
+    "title": "Meet Our Chefs",
+    "description": "Our talented chefs bring authentic flavors to every dish."
+  },
+ 
+    "hero": {
+      "title": "Welcome to To'mah Restaurant",
+      "subtitle": "Authentic Saudi Cuisine",
+      "cta": "Browse Our Menu",
+      "description": "Experience the finest dining with our carefully crafted dishes and exceptional service.",
+      "button": "View Menu"
+    },
+    "values": {
+      "title": "Our Philosophy",
+	  "service": {
+        "title": "To'mah Experience",
+        "description": "The first of its kind in the Medina region."
+
+      },
+			"quality": {
+		"title": "Quality Ingredients",
+		"description": "We use only the freshest and finest ingredients in our dishes."
+	  },	 	
+      "tradition": {
+        "title": "Elegant Atmosphere ",
+        "description": "Suitable for people with special needs, families, and gatherings."
+      }
+     
+    },
+	"vision": {
+	  "title": "Our Vision",
+	  "description": "To become one of the best restaurants specializing in traditional cuisine, known for its service, quality, speed of service, and innovative concept",
+	  "image_alt": "Restaurant Vision Image"
+	},
+    "goals": {
+      "title": "Our Goals",
+      "heritage": {
+        "title": "Cultural Heritage",
+        "description": "To introduce and spread the culture of Medina's cuisine"
+      },
+      "innovation": {
+        "title": "Modern Innovation",
+        "description": "Exceptional service for the visitors and guests of Medina"
+      },
+      "quality": {
+        "title": "Quality Focus",
+        "description": "To meet the needs of Medina by providing a restaurant that offer high-quality local food"
+      },
+      "image_alt": "Restaurant Vision Image",
+      "years": "Est. 2024",
+      "experience": "Years of Excellence"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Only the finest ingredients make it to your plate"
+      },
+      "service": {
+        "title": "Expert Service",
+        "description": "Professional and attentive staff at your service"
+      },
+      "hygiene": {
+        "title": "Perfect Hygiene",
+        "description": "Maintaining the highest standards of cleanliness"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Quick and reliable delivery to your doorstep"
+      }
+    },
+    "cta": {
+      "title": "Experience the Taste of Tradition Today",
+      "description": "Join us for an unforgettable culinary journey through our city's rich food heritage",
+      "menu_button": "Browse Our Menu",
+      "order_button": "Order Now"
+    },
+    "featured": {
+      "title": "Featured Dishes",
+      "order_button": "Order Now"
+    },
+    "testimonials": {
+      "title": "Customer Testimonials",
+      "0": {
+        "text": "The food was absolutely wonderful, from preparation to presentation, very pleasing.",
+        "name": "John Doe"
+      },
+      "1": {
+        "text": "The ambiance and service were exceptional. Highly recommend this restaurant!",
+        "name": "Jane Smith"
+      }
+    },
+  "about": {
+  "title": "Our Story",
+  "description": "Discover the perfect blend of tradition and innovation at To'mah. Our passionate chefs create memorable dining experiences with the finest ingredients and authentic recipes.",
+  "button": "Learn More",
+  "image_alt": "Restaurant Interior",
+  "idea_section": {
+    "heading": "The Idea of To’mah Began On",
+    "hijri": "15-4-1442 AH",
+    "gregorian": "30-11-2020 AD"
+  },
+  "opening_section": {
+    "heading": "The Opening Took Place On",
+    "hijri": "18-5-1446 AH",
+    "gregorian": "20-11-2024 AD"
+  }
+}
+,
+    "currency": "SR"
+  
+},
+	"meal_details": {
+		"loading": "Loading...",
+		"back": "Back to Menu",
+		"quick_facts": "Quick Facts",
+		"prep_time": "Preparation Time",
+		"calories": "Calories",
+		"kcal": "kcal",
+		"difficulty": "Difficulty",
+		"servings": "Servings",
+		"vegetarian": "Vegetarian",
+		"vegan": "Vegan",
+		"na": "N/A",
+		"yes": "Yes",
+		"no": "No",
+		"ingredients": "Ingredients",
+		"notes": "Notes",
+		"add_to_cart": "Add to Cart",
+		"currency": "SR",
+		"toast": "Item added to cart!"
+	},
+	
+  "menu": {
+	"menu.most_popular": "Most Popular Meals",
+	"menu.Menu": "Menu",
+	"menu.description": "Explore our diverse menu featuring traditional Hejazi dishes, grilled specialties, and seasonal delights. Each dish is crafted with care to bring you the authentic flavors of Medina.",
+    "title": "Our Menu",
+    "search_placeholder": "Search in our Menu...",
+    "filters": "Filters",
+    "show_filters": "Show Filters",
+    "hide_filters": "Hide Filters",
+    "page": "Page {{current}} of {{total}}"
+  },
+  
+	"partners": {
+		"hero": {
+			"title": "Our Partners",
+			"description": "We collaborate with the finest suppliers and work alongside talented individuals to bring you an exceptional dining experience."
+		},
+		"testimonials": {
+			"title": "What Our Partners Say"
+		},
+	
+		"cta": {
+			"title": "Become a Partner",
+			"description": "We're always looking to collaborate with quality suppliers and influential personalities who share our passion for exceptional food and service.",
+			"button": "Contact Us for Partnership"
+		},
+		"partners": [
+			{
+				"name": "Cindy",
+				"role": "Food Influencer",
+				"testimonial": "Commodo duis dolor proin luctus elit vehicula. Posuere leo venenatis mollis hac platea porta dis consequat ullamcorper."
+			},
+			{
+				"name": "Lillie Gilman",
+				"role": "Photographer",
+				"testimonial": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sunt in culpa qui officia."
+			},
+			{
+				"name": "Neil Rosas",
+				"role": "Vlogger",
+				"testimonial": "Pharetra amet eget dolor facilisis morbi molestie? Venenatis semper ornare feugiat consectetur elit cubilia sit velit."
+			}
+		],
+		"suppliers": [
+			{
+				"name": "Fresh Farms Co.",
+				"type": "Organic Produce",
+				"description": "Providing fresh, organic vegetables and fruits directly from local farms."
+			},
+			{
+				"name": "Premium Meats",
+				"type": "Quality Meats",
+				"description": "Supplying high-quality, ethically sourced meats for our signature dishes."
+			},
+			{
+				"name": "Ocean Fresh",
+				"type": "Seafood",
+				"description": "Delivering the freshest seafood from sustainable sources daily."
+			}
+		]
+	},
+	"menu_banner.button": "Order Now",
+	"menu_banner.title": "Discover Our Seasonal Specials",
+	"payment": {
+"quantity": "Qty: {{count}}",
+		"title": "Payment",
+		"complete_order": "Complete Your Order",
+		"order_summary": "Order Summary",
+		"payment_method": "Payment Method",
+		"card": "Credit/Debit Card",
+		"delivery": "Pay on Delivery",
+		"full_name": "Full Name",
+		"full_name_placeholder": "John Doe",
+		"phone": "Phone Number",
+		"phone_placeholder": "+1 234 567 8900",
+		"address": "Address",
+		"address_placeholder": "Street address",
+		"city": "City",
+		"city_placeholder": "City",
+		"postal_code": "Postal Code",
+		"postal_code_placeholder": "Postal code",
+		"locate_me": "Locate Me",
+		"locating": "Locating...",
+		"card_info": "Card Information",
+		"name_on_card": "Name on Card",
+		"name_on_card_placeholder": "John Smith",
+		"card_number": "Card Number",
+		"card_number_placeholder": "1234 5678 9012 3456",
+		"expiry": "Expiry Date",
+		"expiry_placeholder": "MM/YY",
+		"cvv": "CVV",
+		"cvv_placeholder": "123",
+		"delivery_instructions": "Delivery Instructions",
+		"delivery_instructions_placeholder": "Any special instructions for delivery?",
+		"delivery_note": "You'll pay with cash, card, or mobile payment when your order arrives.",
+		"empty_cart": "Your cart is empty",
+		"quantity": "Qty: {{count}}",
+		"currency": "SR",
+		"total": "Total",
+		"current_location": "Current Location",
+		"near_location": "Near {lat}, {lng}",
+		"error_location": "Could not detect location. Please enter manually.",
+		"error_geolocation": "Geolocation is not supported by your browser.",
+		"error_full_name": "Please enter your full name.",
+		"error_address": "Please enter your address.",
+		"error_city": "Please enter your city.",
+		"error_phone": "Please enter a contact number.",
+		"error_phone_delivery": "Please enter a valid phone number for delivery",
+		"error_name_on_card": "Please enter the name on card.",
+		"error_card_number": "Please enter a valid 16-digit card number.",
+		"error_expiry": "Please enter a valid expiry date (MM/YY).",
+		"error_cvv": "Please enter a valid CVV (3 or 4 digits).",
+		"error_general": "An error occurred. Please try again.",
+		"success_card": "Payment processed successfully!",
+		"success_delivery": "Order placed successfully! Pay on delivery.",
+		"processing": "Processing...",
+		"pay_button": "Pay {total} SR",
+		"place_order_button": "Place Order (Pay {total} SR on Delivery)"
+	},
+	"menu_showcase": {
+  "order_now": "Order Now",
+  "order_now_desc": "Discover our seasonal specials and chef’s recommendations",
+  "add_to_cart": "Add to cart",
+  "experience_title": "Experience the Taste of Authenticity",
+  "experience_desc": "From traditional flavors to modern twists, our dishes are crafted to delight your senses.",
+  "book_table": "BOOK A TABLE",
+  "grilled_menu": "GRILLED TO'MAH MENU",
+  "beef_joints": "BEEF JOINTS",
+  "beef_joints_desc": "Indulge in grilled beef joints served with rich tahini sauce. A delicious meal rich in protein and authentic grilled flavors.",
+  "tomah_kebab": "TO'MAH KEBAB",
+  "tomah_kebab_desc": "Indulge in premium special kebab served with delicious nuts and rich tahini sauce. A royal meal rich in luxurious flavors and fresh ingredients.",
+  "tahini_kebab": "Tahini Kebab",
+  "tahini_kebab_desc": "Indulge in special kebab grilled over charcoal and topped with rich and delicious tahini sauce. A delicious meal rich in grilled flavors and distinctive tahini.",
+  "dessert_menu": "DESSERT MENU",
+  "roqaq": "ROQAQ AL-AGUAT",
+  "roqaq_desc": "Crispy Roqaq Dough Filled With Pistachios And Cream And Served With Ice Cream",
+  "cream_caramel": "CREAM CARAMEL",
+  "cream_caramel_desc": "Oven Baked Cream caramel served cold caramelized sugar sauce",
+  "um_ali": "UM ALI",
+  "um_ali_desc": "Dessert made of roqaq with milk and roasted nuts served hot"
+},
+	"gallery": {
+		"image_alt": "Gallery Image"
+	},
+	"cta": {
+		"title": "Why Visit To'mah?",
+		"description": "Experience more than just food — experience tradition, warmth, and a piece of Medina's soul.",
+		"button": "Explore Menu"
+	},
+	"categories": {
+  "appetizers": "Appetizers",
+  "main_dishes": "Main Dishes",
+  "desserts": "Desserts",
+  "drinks": "Drinks",
+  "salads": "Salads",
+  "grills": "Grills",
+  "pasta": "Pasta",
+  "snacks": "Snacks"
+},
+"gallery_and_category":"Our Visitors",
+"people_section": {
+	"title": "Meet Our Founders ",
+
+	"owner_title": "Linda Zaidan",
+	"owner_desc": "To'mah's Founder & Owner.",
+
+	
+	"chef_title": "To'mah Family",
+	"chef_desc": "Our Talented Chefs & Staff."
+},
+"toamahBanner": "Al-Madinah People Food"
+
+}
+
+
+
